@@ -1,2 +1,2 @@
 # processingProjects
-Collection of New Media related projects done in processing and Arduino. 
+Collection of New Media related class projects done in Processing and Arduino. 
